@@ -58,6 +58,10 @@
 
   - [Trechos de Código da Aula (Markdown)](./md/sits.md)
 
+# Exercícios Resolvidos
+
+- **Atividades e Projetos:**
+  - [Solução](./atividades)
 
 # Material Auxiliar
 
