@@ -1,0 +1,40 @@
+Não recortar o conteúdo, apenas fazer a cópia
+
+####  Dia  28/01
+
+Slide introdução: https://github.com/dataAt/intro-analise-de-dados-apresentacao/blob/master/introducao/2020/intro-escola-de-verao-geo.pdf
+
+Slide Desenvolvimento: https://introducao-ds-inpe-2020.netlify.com/apresencao_final.html#1	
+
+Atividade R: https://www.kaggle.com/oldlipe/atividades-curso-de-verao-r
+
+Atividade Python: https://www.kaggle.com/phelpsmemo/atividades-curso-de-verao-python
+
+Tutorial kaggle: https://github.com/dataAt/inpe-ambiente/blob/master/introducao-kaggle/documentacao_kaggle.pdf
+
+curso de geo: https://dataat.github.io/introducao-analise-de-dados-espaciais/introducao.html
+
+####  Dia  30/01
+
+ML para R: https:/www.kaggle.com/oldlipe/ml-curso-de-verao-r
+
+ML para Python: https://www.kaggle.com/phelpsmemo/ml-curso-de-verao-python
+
+Comp: https://www.kaggle.com/c/competicao-curso-verao-inpe-2020
+
+
+####  Dia  31/01
+
+Slide: https://spatial-lang-2020.netlify.com/apresencao_final.html
+
+Atividade Python: https://www.kaggle.com/phelpsmemo/spatial-curso-de-verao-python
+Atividade R: https://www.kaggle.com/oldlipe/spatial-curso-de-verao-r
+
+##### Base de Dados
+Por favor, anotem o endereço e senha abaixo para acesso aos dados que usaremos na aula de terça-feira:
+
+- Link: https://1drv.ms/u/s!AtoTP-MfEUEDgq51TA9Seya8PXUpUA?e=HDpqGM
+
+- Senha: CursoINPE2020
+
+
