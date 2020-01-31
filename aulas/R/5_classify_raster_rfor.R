@@ -26,6 +26,7 @@ sinop_probs$files
 
 sinop_map3 <- sits_label_classification(sinop_probs)
 
+# Imagem de classificação Gerada (./plot_imagery_classification.png)
 plot(sinop_map3, title = "Sinop")
 
 sinop_map4 <- sits_label_classification(sinop_probs, smoothing = "bayesian")
